@@ -1,4 +1,3 @@
-# Machine_Learning
-# 머신러닝 기초
+# Machine_Learning (기본)
 
 #### 1. Linear Regression
