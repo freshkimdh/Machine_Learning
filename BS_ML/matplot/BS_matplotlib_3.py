@@ -2,7 +2,9 @@
 import matplotlib.pyplot as plt
 from matplotlib.image import imread
 
-img = imread('C:/Users/user/PycharmProjects/pythonProject2/BS_ML/dog.jpg')
+img = imread('C:/Users/user/PycharmProjects/pythonProject2/BS_ML/matplot/dog.jpg')
+
+
 # img = imread('./BS_ML/dog.jpg')
 
 plt.imshow(img)
