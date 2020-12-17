@@ -2,10 +2,10 @@
 
 ## Level 1 - 파이썬 기초
 
-* 1. class, dictionary, function, for
-* 2. if else, inheritance, list, module
-* 3. override, scanner, super, try except
-* 4. tuple, numpy
+* 1. Class, Dictionary, Function, for
+* 2. if else, Inheritance, list, Module
+* 3. Override, scanner, Super, try except
+* 4. Tuple, numpy
 * 5. openCV, Pandas
 
 
