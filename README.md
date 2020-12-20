@@ -13,7 +13,7 @@
 * 1. matplot 라이브러리
 * 2. 퍼셉트론 이해
 * 3. 신경망
-
+* 4. 3층 신경망 구현
 
 ## Level 3 - 딥러닝 활용
 * 1. Linear Regression
