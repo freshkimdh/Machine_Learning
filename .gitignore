@@ -1,2 +1,12 @@
 # Project exclude paths
 /venv/
+Level_2_BS_ML/Mnist/__pycache__/__init__.cpython-38.pyc
+Level_2_BS_ML/Mnist/dataset/lena.png
+Level_2_BS_ML/Mnist/dataset/lena_gray.png
+Level_2_BS_ML/Mnist/dataset/mnist.pkl
+Level_2_BS_ML/Mnist/dataset/mnist.py
+Level_2_BS_ML/Mnist/dataset/t10k-images-idx3-ubyte.gz
+Level_2_BS_ML/Mnist/dataset/t10k-labels-idx1-ubyte.gz
+Level_2_BS_ML/Mnist/dataset/train-images-idx3-ubyte.gz
+Level_2_BS_ML/Mnist/dataset/train-labels-idx1-ubyte.gz
+Level_2_BS_ML/Mnist/dataset/__pycache__/mnist.cpython-38.pyc
