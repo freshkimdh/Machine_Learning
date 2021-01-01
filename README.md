@@ -15,7 +15,13 @@
 * 3. 신경망
 * 4. 3층 신경망 구현
 * 5. MSE(평균제곱의 오차), CSE(교차 엔트로피 오차)
+* 6. Mnist 활용
 
-## Level 3 - 딥러닝 활용
+## Level 3 - 모두를 위한 머신러닝 (Sung Kim)
+* 1. FrozenLake
+* 2. Q-Learning을 활용한 FrozenLake
+
+
+## Level 4 - 딥러닝 활용
 * 1. Linear Regression
 * 2. Gradient Descent
