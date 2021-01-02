@@ -18,5 +18,6 @@
 * 7. Mnist 활용
 
 ## Level 3 - 딥러닝 활용
-* 1. Linear Regression
-* 2. Gradient Descent
+* 1. Tensorflow Basic
+* 2. Linear Regression
+* 3. Gradient Descent
