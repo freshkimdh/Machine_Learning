@@ -20,6 +20,7 @@
 ## Level 3 - 모두를 위한 머신러닝 (Sung Kim)
 * 1. FrozenLake
 * 2. Q-Learning을 활용한 FrozenLake
+* 3. Q-Learning의 Discounted reward
 
 
 ## Level 4 - 딥러닝 활용
