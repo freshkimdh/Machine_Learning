@@ -9,3 +9,10 @@ print(np.sum(array, axis=0))
 
 # 5,3 행렬에서 '3' 으로 생각하면 된다.
 print(np.sum(array, axis=1))
+
+# np.identity
+b = np.identity(4)
+a = np.identity(4)[1:4] # "0이상 2이하" 의 행 출력
+
+print(b)
+print(a)
