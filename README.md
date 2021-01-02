@@ -21,6 +21,7 @@
 * 1. FrozenLake
 * 2. Q-Learning을 활용한 FrozenLake
 * 3. Q-Learning의 Discounted reward
+* 4. Q-Learning의 Slip FrozenLake
 
 
 ## Level 4 - 딥러닝 활용
