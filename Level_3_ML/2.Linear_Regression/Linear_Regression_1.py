@@ -11,7 +11,7 @@ y_train = [1, 2, 3]
 
 # W, b 값 정의
 # tf.random_normal([shape]) 몇 차원?
-W = tf.Variable(tf.random_normal([1]), name='weight') # 텐서플로우가 사용하는 변수 "Variable"
+W = tf.Variable(tf.random_normal([1]), name='weight') # 텐서플로우가 사용하는 변수 선언 "Variable"
 b = tf.Variable(tf.random_normal([1]), name='bias')
 
 # 가설 정의

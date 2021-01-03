@@ -21,3 +21,4 @@
 * 1. Tensorflow Basic
 * 2. Linear Regression
 * 3. Gradient Descent
+* 4. Matrix Multiplication
